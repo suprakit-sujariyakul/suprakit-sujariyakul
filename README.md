@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=suprakit-sujariyakul&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)
+
 **suprakit-sujariyakul/suprakit-sujariyakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
