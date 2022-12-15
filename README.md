@@ -1,3 +1,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=suprakit-sujariyakul&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
