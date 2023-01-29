@@ -36,3 +36,9 @@
     <img src="https://skillicons.dev/icons?i=git,nodejs,vim&theme=dark"/>
   </a>
 </p>
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://suprakit-sujariyakul.github.io/Portfolio/">Alternatively, you can checkout my portfolio website</a>
+</p>
